@@ -32,4 +32,4 @@ jobs:
         with:
           context: ./c-bye
           push: true
-          tags: ghcr.io/${{ github.repository }}/test:latest
+          tags: ghcr.io/claudiu1910/workshop-test/test:latest
